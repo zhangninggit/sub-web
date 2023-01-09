@@ -301,11 +301,11 @@ export default {
         {
             label: "ACL4SSR",
             options: [
-            {
-                label: "ACL4SSR_Online_Full dabiao自用分组 (与Github同步)",
+              {
+                label: "ACL4SSR_Online_Full_Netflix dabiao自用分组 全分组 重度用户使用 奈飞全量 (与Github同步)",
                 value:
-                  "https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/config/ACL4SSR_Online_Full.ini"
-            },
+                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini"
+              },
               {
                 label: "ACL4SSR_Online 默认版 分组比较全 (与Github同步)",
                 value:
@@ -365,11 +365,6 @@ export default {
                 label: "ACL4SSR_Online_Full_AdblockPlus 全分组 重度用户使用 更多去广告 (与Github同步)",
                 value:
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini"
-              },
-              {
-                label: "ACL4SSR_Online_Full_Netflix 全分组 重度用户使用 奈飞全量 (与Github同步)",
-                value:
-                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini"
               },
               {
                 label: "ACL4SSR 本地 默认版 分组比较全",
